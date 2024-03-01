@@ -2,5 +2,11 @@
 <project version="4">
   <component name="VcsDirectoryMappings">
     <mapping directory="" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/JAVA" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Test Automation/Selenium/Demo Projects/Selenium-BDD-demo" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Test Automation/Selenium/Demo Projects/Selenium-ecommerce-demo" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Test Automation/Selenium/Demo Projects/SeleniumExercise" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Test Automation/Selenium/Demo Projects/SeleniumOops" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Test Automation/Selenium/Demo Projects/selenium-google-search" vcs="Git" />
   </component>
 </project>
