@@ -12,11 +12,11 @@
       <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/java/DataStructures/LearnArrayList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/DataStructures/LearnArrays.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/DataStructures/LearnArraysClass.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/java/DataStructures/LearnCollections.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/java/DataStructures/LearnDeQueue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/DataStructures/LearnHashMap.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/java/DataStructures/LearnHashSet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/DataStructures/LearnMap.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/java/DataStructures/LearnPriorityQueue.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/java/DataStructures/LearnQueue.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/java/DataStructures/LearnStack.java" afterDir="false" />
@@ -69,9 +69,12 @@
     "Application.LearnArrayList.executor": "Run",
     "Application.LearnArrays.executor": "Run",
     "Application.LearnPriorityQueue.executor": "Run",
+    "Application.PrefixSum.executor": "Run",
+    "Application.Recursion.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/Users/praveenamuvva/My_Projects/MyLearnings/JAVA",
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.0",
     "project.structure.side.proportion": "0.2"
@@ -85,7 +88,7 @@
       <recent name="$PROJECT_DIR$/src/main/java/Strings" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.LearnPriorityQueue">
+  <component name="RunManager" selected="Application.PrefixSum">
     <configuration name="LearnArrayList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="DataStructures.LearnArrayList" />
       <module name="JAVA" />
@@ -99,8 +102,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LearnArrays" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="DataStructures.LearnArrays" />
+    <configuration name="LearnArraysClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DataStructures.LearnArraysClass" />
       <module name="JAVA" />
       <extension name="coverage">
         <pattern>
@@ -125,10 +128,38 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="PrefixSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Practice.PrefixSum" />
+      <module name="JAVA" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Practice.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Recursion" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Practice.Recursion" />
+      <module name="JAVA" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Practice.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.PrefixSum" />
+        <item itemvalue="Application.Recursion" />
         <item itemvalue="Application.LearnPriorityQueue" />
-        <item itemvalue="Application.LearnArrays" />
+        <item itemvalue="Application.LearnArraysClass" />
         <item itemvalue="Application.LearnArrayList" />
       </list>
     </recent_temporary>
